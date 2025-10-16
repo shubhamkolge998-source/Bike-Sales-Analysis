@@ -83,5 +83,5 @@ Created an **interactive Excel Dashboard** using Pivot Charts and Slicers for dy
 - **GitHub** – For project sharing and version control
 
 Shubham Kolge
-📧 Email: shubhamkolge998gmail.com
+📧 Email: Kolgeshubham14@gmail.com
 💼 LinkedIn : https://www.linkedin.com/in/shubham-kolge-67a332211
